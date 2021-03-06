@@ -29,6 +29,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 ### Control Suites
 
+* [Actipro WPF Controls](https://www.actiprosoftware.com/products/controls/wpf) - (PAID, COMMERCIAL) A vast toolkit of professional UI controls, including docking windows, ribbons, editors, propertygrid, code editing, charts, gauges, wizards, themes, and much more.
 * [ComponentOne Studio WPF](https://www.componentsource.com/product/componentone-studio-wpf) - (PAID, COMMERCIAL) ComponentOne Studio WPF Edition is a collection of easy to use WPF components currently including grids, charting, reporting and scheduling controls.
 * [ControlzEx](https://github.com/ControlzEx/ControlzEx) - (FREE, OPEN SOURCE) Shared Controlz for WPF
 * [Extended WPF Toolkit](https://github.com/xceedsoftware/wpftoolkit) - (FREE FOR NON COMMERCIAL USE, OPEN SOURCE) WPF controls, components and utilities for creating next generation Windows applications
@@ -39,6 +40,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [Modern UI for WPF (MUI)](https://github.com/firstfloorsoftware/mui) - (FREE, OPEN SOURCE) A set of controls and styles converting your WPF application into a great looking Modern UI app. 
 * [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications
 * [Nevron UI for Win/Mac](https://www.nevron.com/products-open-vision-wpf-ui-controls-overview.aspx) - (FREE) Nevron User Interface Components for WPF | NOV User Interface for .NET 
+* [Ookii Dialogs WPF](https://github.com/ookii-dialogs/ookii-dialogs-wpf) - (FREE, OPEN SOURCE) A set of dialogs for your WPF applications. Included are classes for task dialogs, credential dialog, progress dialog, and common file dialogs.
 * [Telerik UI for WPF](https://www.telerik.com/products/wpf/overview.aspx) - (PAID, COMMERCIAL) Telerik UI for WPF | Build beautiful and high-performance WPF business applications fast
 * [WPFSpark](https://github.com/ratishphilip/wpfspark) - (FREE, OPEN SOURCE) A rich UserControl library to enhance the look and feel of WPF applications. 
 
@@ -97,6 +99,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 * [MvvmCross](https://github.com/MvvmCross/MvvmCross) - (FREE, OPEN SOURCE) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 * [Prism](https://github.com/PrismLibrary/Prism) - (FREE, OPEN SOURCE) Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, and Xamarin Forms.
 * [ReactiveUI](https://reactiveui.net/) - (FREE, OPEN SOURCE) An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms!
+* [Serilog.Sinks.RichTextBox.Wpf](https://github.com/augustoproiete/serilog-sinks-richtextbox) - (FREE, OPEN SOURCE) A Serilog sink that writes log events to any WPF RichTextBox control with coloring and custom theme support.
 * [UpbeatUI](https://github.com/michaelpduda/UpbeatUI) - (FREE, OPEN SOURCE) A lightweight MVVM framework for quickly developing mobile-style applications for Windows.
 * [WPF Animated GIF](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - (FREE, OPEN SOURCE) A simple library to display animated GIF images in WPF, usable in XAML or in code.
 * [WPFTabTip](https://github.com/maximcus/WPFTabTip) - (FREE, OPEN SOURCE) Simple TabTip / Virtual Keyboard integration for WPF apps on Win 8.1 and Win 10
